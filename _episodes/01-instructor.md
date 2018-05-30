@@ -5,7 +5,7 @@ exercises: 0
 questions:
 - "Key question"
 objectives:
-- "First objective."
+- "David's First objective."
 keypoints:
 - "First key point."
 ---
